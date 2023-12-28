@@ -1,0 +1,67 @@
+{
+  "id": "fvtt-module-vsd-es",
+  "title": "Translation: Spanish [Against the Darkmaster]",
+  "description": "Traducción del sistema Against the Darkmaster (gitlab.com/jbhuddleston/vsd) al español -  Against the Darkmaster spanish translation",
+  "version": "2.61.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11.315"
+  },
+  "languages": [
+    {
+      "lang": "es",
+      "name": "Español",
+      "path": "lang/es.json",
+      "flags": {}
+    }
+  ],
+	  "packFolders": [
+  {
+    "name": "Compendios en español",
+    "sorting": "a",
+    "color": "#b95050",
+    "packs": ["vsd-armor-es"]
+  }
+  ],
+  "packs": [
+    {
+      "name": "vsd-armor-es",
+      "label": "Armaduras",
+      "system": "vsd",
+      "path": "packs/vsd-armor-es.db",
+      "type": "Item",
+      "private": false,
+      "flags": {},
+      "package": "fvtt-module-vsd-es",
+      "absPath": "packs/vsd-armor-es.db"
+    }
+  ],
+  "url": "https://github.com/lozanoje/fvtt-module-vsd-es",
+  "manifest": "https://raw.githubusercontent.com/lozanoje/fvtt-module-vsd-es/main/module.json",
+  "download": "https://github.com/lozanoje/fvtt-module-vsd-es/archive/main.zip",
+  "authors": [
+    {
+      "name": "Viriato139ac",
+      "discord": "@Viriato139ac#0342"
+    }
+  ],
+	  "relationships": {
+	    "systems": [{
+	        "id": "vsd",
+	        "type": "system",
+	        "compatibility": "2.61"
+	      }
+	    ],
+	    "requires": [{
+	        "id": "foundryvtt-es",
+	        "type": "module",
+	        "compatibility": {}
+	      }
+	    ]
+	  },
+	
+	
+  "esmodules": [
+    "fvtt-module-vsd-es.js"
+  ]
+}

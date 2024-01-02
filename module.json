@@ -2,7 +2,7 @@
   "id": "fvtt-module-vsd-es",
   "title": "Translation: Spanish [Against the Darkmaster]",
   "description": "Traducción del sistema Against the Darkmaster (gitlab.com/jbhuddleston/vsd) al español -  Against the Darkmaster spanish translation",
-  "version": "2.62.1",
+  "version": "2.63.1",
   "compatibility": {
     "minimum": "11",
     "verified": "11.315"
@@ -49,7 +49,7 @@
 	    "systems": [{
 	        "id": "vsd",
 	        "type": "system",
-	        "compatibility": "2.62"
+	        "compatibility": "2.63"
 	      }
 	    ],
 	    "requires": [{

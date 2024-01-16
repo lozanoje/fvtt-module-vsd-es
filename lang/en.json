@@ -572,10 +572,8 @@
     }
   },
   "COMBAT": {
-    "CombatantShotCost": "Shots to be spent",
     "Round": "Round",
-    "RoundNext": "Advance the Round and reset all declarations.",
-    "RoundNextFAN": "Advance the Round and add AP Regen."
+    "RoundNext": "Advance the Round and reset all declarations."
   },
   "SETTINGS": {
     "preventTablePopUp": {

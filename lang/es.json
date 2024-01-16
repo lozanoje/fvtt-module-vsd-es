@@ -572,10 +572,8 @@
     }
   },
   "COMBAT": {
-    "CombatantShotCost": "Disparos gastados",
     "Round": "Asalto",
-    "RoundNext": "Pasa el asalto y reinicia todas las declaraciones.",
-    "RoundNextFAN": "Pasa el asalto y añade regeneración de PA."
+    "RoundNext": "Pasa el asalto y reinicia todas las declaraciones."
   },
   "SETTINGS": {
     "preventTablePopUp": {
